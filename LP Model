@@ -1,0 +1,15 @@
+LP Model
+Minimize the Objective function: z = 6*x + 5*y
+Subject To:
+-2*x+2*y<=0
+3.5*x – 0.5*y>=0
+-1*x+2*y>=0
+x + y>=50
+x , y>=0
+The Optimal Solution
+z = 275
+x = 25, y = 25 and x=33.33 and y=16.67 are the intersection points.
+Minimum value of z is obtained with x=25 and y=25. 
+Hence minimum cost of the product is $ 275
+
+ 
