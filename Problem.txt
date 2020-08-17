@@ -1,0 +1,18 @@
+A factory makes three products (fabrics): Summer, Autumn, and Winter from three
+materials containing: Cotton, Wool and Viscose. The following table provides details
+on the sales price, production cost and purchase cost per ton of products and materials
+respectively.
+        Sales price    Production cost              Purchase price
+Summer      $50           $4              Cotton        $30
+Autumn      $55           $4              Wool          $45
+Winter      $60           $5              Viscose       $40
+The maximal demand (in tons) for each product, the minimum cotton and wool propor-
+tion in each product is as follows.
+         Demand    min Cotton proportion      min Wool proportion
+Summer    4500          60%                         30%
+Autumn    4000          60%                         30%
+Winter    3800          40%                         50%
+Formulate a LP model for the factory that maximises the prot, while satisfying the
+demand and the cotton and wool proportion constraints.
+Solve the model using IBM ILOG CPLEX. What are the optimal prot and optimal
+values of the decision variables?
